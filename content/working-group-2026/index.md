@@ -66,6 +66,6 @@ The group’s first hands-on task: 15 minutes generating an exhaustive list of r
 
 ## Acknowledgements
 
-This space is an evolving document. We will continue to update it as the working group progresses, and we invite others to contribute—whether by joining sessions, suggesting [edits on GitHub](https://github.com/continuousfoundation/modular-peer-review), or sharing feedback via the [mailing list](https://groups.google.com/a/continuousfoundation.org/g/modular-peer-review).
+This space is an evolving document. We will continue to update it as the working group progresses, and we invite others to contribute—whether by joining sessions, suggesting [edits on GitHub](https://github.com/continuous-foundation/modular-peer-review), or sharing feedback via the [mailing list](https://groups.google.com/a/continuousfoundation.org/g/modular-peer-review).
 
 All working group participants are part of this effort and its outputs. Some participants have chosen to remain or be listed anonymously; we thank everyone who has shown up, experimented, and helped shape this work.
