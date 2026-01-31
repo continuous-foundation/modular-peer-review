@@ -4,7 +4,7 @@ extends:
 project:
   id: e73009b8-7905-4934-9a38-dfa7599ba20c
   title: Modular Peer Review Working Group
-  description: A working group exploring how peer review can evolve in a modular publishing ecosystem.
+  description: A working group hosted by Continuous Science Foundation (CSF) and PREreview exploring how peer review can evolve in a modular publishing ecosystem.
   github: https://github.com/continuous-foundation/modular-peer-review
   date: 2026-01-22
   authors:
