@@ -1,0 +1,66 @@
+version: 1
+project:
+  license: CC-BY-4.0
+  open_access: true
+  banner: banner.png
+  thumbnail: thumbnail.png
+  venue:
+    title: Continuous Science Foundation
+    url: https://continuousfoundation.org
+  subject: Article
+  contributors:
+    - id: rowan
+      name: Rowan Cockett
+      email: rowan@continuousfoundation.org
+      orcid: 0000-0002-7859-8394
+      github: rowanc1
+      affiliations:
+        - id: csf
+        - id: curvenote
+    - id: courtney
+      name: Courtney Babott
+      orcid: 0009-0009-4167-2325
+      corresponding: true
+      email: courtney@continuousfoundation.org
+      affiliations:
+        - id: csf
+        - id: wildlyopen
+    - id: chad
+      name: Chad Sansing
+      orcid: 0000-0002-1472-1824
+      email: chad@prereview.org
+      corresponding: true
+      affiliations:
+        - id: prereview
+    - id: daniela
+      name: Daniela Saderi
+      orcid: 0000-0002-6109-0367
+      email: daniela@prereview.org
+      affiliations:
+        - id: prereview
+  affiliations:
+    - id: csf
+      name: Continuous Science Foundation
+      ror: https://ror.org/00zwsrq61
+    - id: curvenote
+      name: Curvenote Inc.
+      country: Canada
+      ror: https://ror.org/02mz0e468
+      email: support@curvenote.com
+      url: https://curvenote.com
+      linkedin: https://www.linkedin.com/company/curvenote/
+      bluesky: curvenote.com
+    - id: wildlyopen
+      name: Wildly Open
+      url: https://wildlyopen.com
+      linkedin: https://www.linkedin.com/company/wildlyopen/
+    - id: prereview
+      name: PREreview
+      url: https://prereview.org
+      ror: https://ror.org/00d496d44
+      linkedin: https://www.linkedin.com/company/prereview/
+      bluesky: prereview.bsky.social
+  abbreviations:
+    CSF: Continuous Science Foundation
+site:
+  template: book-theme

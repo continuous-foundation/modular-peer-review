@@ -1,0 +1,32 @@
+name: Curvenote Content
+on:
+  pull_request_target:
+    branches: ["main"]
+    types: [labeled, opened, synchronize, reopened]
+permissions:
+  contents: read
+  pull-requests: write
+jobs:
+  draft:
+    uses: curvenote/actions/.github/workflows/draft.yml@v1
+    with:
+      venue: csf
+      kind: article
+      collection: articles
+      path: content/*
+      label: draft
+    secrets:
+      CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
+      GITHUB: ${{ secrets.GITHUB_TOKEN }}
+  active:
+    uses: curvenote/actions/.github/workflows/submit.yml@v1
+    with:
+      venue: csf
+      kind: article
+      collection: articles
+      path: content/*
+      label: active
+      publish: true
+    secrets:
+      CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
+      GITHUB: ${{ secrets.GITHUB_TOKEN }}
