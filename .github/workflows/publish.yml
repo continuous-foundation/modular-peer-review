@@ -1,19 +1,19 @@
-name: Curvenote Content
+name: Blog Publish
 on:
-  pull_request_target:
+  push:
     branches: ["main"]
-    types: [labeled, opened, synchronize, reopened]
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
 jobs:
-  draft:
-    uses: curvenote/actions/.github/workflows/draft.yml@v1
+  publish:
+    uses: curvenote/actions/.github/workflows/submit.yml@v1
     with:
       venue: csf
       kind: article
       collection: articles
       path: content/*
+      publish: true
     secrets:
       CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
       GITHUB: ${{ secrets.GITHUB_TOKEN }}
