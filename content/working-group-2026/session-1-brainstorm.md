@@ -1,6 +1,7 @@
 ---
-title: A 15-Minute Experiment
+title: 'Session 1: Modular Components'
 date: 2026-01-22
+author: courtney
 ---
 
 The group’s first chance to roll up their sleeves came to join small groups and generate an exhaustive list of research components that could be reviewed, evaluated, or given feedback on as an independent component.
