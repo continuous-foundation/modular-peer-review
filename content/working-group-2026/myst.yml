@@ -5,7 +5,7 @@ project:
   id: e73009b8-7905-4934-9a38-dfa7599ba20c
   title: Modular Peer Review Working Group
   description: A working group exploring how peer review can evolve in a modular publishing ecosystem.
-  github: https://github.com/continuousfoundation/modular-peer-review
+  github: https://github.com/continuous-foundation/modular-peer-review
   date: 2026-01-22
   authors:
     - name: Working Group Participants
@@ -19,7 +19,15 @@ project:
     ECR: Early Career Researcher
     CC: Creative Commons
     DOI: Digital Object Identifier
+    MDAR: Materials Design Analysis Reporting
+    IRB: Institutional Review Board
+    AI: Artificial Intelligence
+    LLM: Large Language Model
+    FAIR: Findable, Accessible, Interoperable, Reusable
   toc:
     - file: index.md
     - file: session-1.md
     - file: session-1-brainstorm.md
+    - title: Notebooks
+      children:
+        - file: session-1-visualizations.ipynb

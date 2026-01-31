@@ -11,13 +11,143 @@ There was no debate. No prioritization. No pressure to be right. No wrong answer
 
 To spark thinking, the group drew inspiration from a case study outside academia: [building reviews and inspections](https://articles.continuousfoundation.org/articles/building-code-review) conducted by specialists at different stages, rather than a single approval at the end. That shift offered a useful parallel for imagining how peer review might operate across review purposes and research components over time, instead of arriving only once everything is bundled together.
 
-**In 15 minutes, the paper shrank from destination to a singular waypoint.**
+## Reviewable, Modular Components
 
-Research questions and study design. Ethics approvals and position statements. Data, materials, and metadata. Code, models, and computational notebooks. Analysis, interpretation, figures, manuscripts. Communication artifacts. Reviews themselves.
+**In 15 minutes, the paper shrank from destination to a singular waypoint.** Research questions and study design. Ethics approvals and position statements. Data, materials, and metadata. Code, models, and computational notebooks. Analysis, interpretation, figures, manuscripts. Communication artifacts. Reviews themselves.
 
-Insert image and link to list
+:::{figure #fig-iceberg} #iceberg
+The deep work behind papers and manuscripts, all of which can be reviewed.
+:::
 
-The list above shows an imperfect but initial categorization of that list, created only to make its breadth visible. These categories are intentionally loose, not a taxonomy or a roadmap, but a snapshot of collective thinking, captured before it hardens.
+**Research Design & Framing**
+
+- Research question
+- Conceptualization
+- Rationale for the approach
+- Study design
+- Study protocol
+- Study plan / proposal
+- Preregistration / pre-registration
+- Hypotheses / hypothesis building
+- Sampling plan
+- Sample composition
+- Study power
+- Statistical analysis plan
+- Plans for materials (MDAR)
+- Methodological review board proposals
+
+**Ethics, Integrity & Governance**
+
+- IRB applications
+- Ethical and permissions documentation
+- Data protection plans (anonymization, consent)
+- Position statements
+- Trust signals
+- Research integrity checks
+- Review of reviews
+- Ethics approval / ethics statement
+
+**Data & Material**
+
+- Data collection plan
+- Data collection instruments
+- Raw data
+- Final datasets
+- Data availability
+- Data FAIRness
+- Data management plan
+- Data retention plan
+- Genomic sequences / genomes
+- Protein structures
+- Reagents
+- Materials availability
+
+**Code, Software & Computation**
+
+- Analysis code
+- Data cleaning / preparation code
+- Statistical code
+- Scripts
+- Computational notebooks
+- Research software
+- Software packages / libraries used
+- Models (including machine learning models)
+- Image (pre)processing workflows
+- AI prompts / chat transcripts
+- Code, search details, and AI prompts
+
+**Analysis & Interpretation**
+
+- Analysis
+- Data analysis
+- Statistical analysis
+- Interpretation
+- Analytic interpretation
+- Main claims
+- Limitations of the research
+- Implications / impact
+- Practical implications
+
+**Outputs & Research Objects**
+
+- Figures
+- Tables
+- Data visualizations
+- Figures and tables together
+- Manuscript / Paper
+- Preprint
+- Discussion section
+- Results datasets
+
+**Communication & Knowledge Translation**
+
+- Lay summaries
+- Language and framing
+- Accessibility (colors, screen readers, etc.)
+- Policy briefs
+- Posters
+- Talks / presentations
+- Introductory talks (with or without data)
+- Videos
+- Video methods
+- Related outputs (posters, talks, media)
+
+**Metadata, Attribution & Infrastructure**
+
+- Metadata
+- Study metadata (for archiving)
+- Completeness of metadata
+- Citations / references
+- Reporting guidelines
+- Availability of different components
+- Openness statements
+- Author contributions
+- Authorship / creator attribution
+- Acknowledgements
+
+**Review & Evaluation Artifacts**
+
+- Peer review reports
+- Post-publication comments
+- Reviews themselves as objects
+
+**Funding & Planning**
+
+- Grant propositions (pre-study)
+- Funding plans / proposals
+- Grants
+
+**Emerging Artifacts**
+
+- Performative arts-sourced research artifacts
+- Time-based aspects of review
+
+The lists above shows an imperfect but initial categorization of that list, created only to make its breadth visible. These categories are intentionally loose, not a taxonomy or a roadmap, but a snapshot of collective thinking, captured before it hardens.
+
+:::{card} 📋 Full List of Components
+:url: https://docs.google.com/spreadsheets/d/1ipMU6eMNzz22BeswmD6nUKdxtP9yCWK5_ao5Hd4ph1Q/edit?gid=0#gid=0
+A full list of the components that we brainstormed together.
+:::
 
 ### Why Share This Now
 
@@ -26,6 +156,8 @@ This list is not _done_. It is meant to _exist_ and be _improved_. It reflects w
 By sharing this early, the group is inviting others into the process.
 
 ## Summary of Ideation Reflection
+
+The group also shared some existing research on openness promotion guidelines [@10.31222/osf.io/nmfs6_v2] and discussed the links between peer-review and editorial checks and policies (e.g. [F1000](https://f1000research.com/about/policies)).
 
 - Strong alignment on the need for modular review:
   - The group broadly agreed that reviewing entire papers obscures important contributions, and that modular review better reflects how research is actually produced and used.
