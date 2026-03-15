@@ -68,6 +68,12 @@ The group’s first hands-on task: 15 minutes generating an exhaustive list of r
 Participants were asked to explore potential components of modular review across several categories to begin giving form to different review purposes.
 :::
 
+:::{card} 🗳️ Session 2 — Dot Voting
+:link: session-2-voting.md
+
+Participants were asked to place dots on research objects or processes where modular peer review could be most valuable. The goal was not to select a single winner but to identify areas of shared interest and momentum across groups.
+:::
+
 **Our next meeting is March 17, 2026.**
 
 ## Acknowledgements

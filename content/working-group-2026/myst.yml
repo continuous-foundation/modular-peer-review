@@ -30,6 +30,8 @@ project:
       children:
         - file: session-1-brainstorm.md
     - file: session-2.md
+      children:
+        - file: session-2-voting.md
     - title: Notebooks
       children:
         - file: session-1-visualizations.ipynb

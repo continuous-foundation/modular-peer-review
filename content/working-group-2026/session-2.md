@@ -623,3 +623,11 @@ Across boards, participants emphasized that modular review could allow different
 Across breakout groups, several research components appeared repeatedly across multiple review functions, particularly study design, datasets, code, and protocols, suggesting these elements may serve as central objects within modular peer review systems.
 
 These discussions illustrate a wide range of possibilities for how modular peer review could support evaluation throughout the research lifecycle.
+
+## Voting
+
+:::{card} 🗳️ Session 2 - Dot Voting
+:link: session-2-voting.md
+
+Participants were asked to place dots on research objects or processes where modular peer review could be most valuable. The goal was not to select a single winner but to identify areas of shared interest and momentum across groups.
+:::
