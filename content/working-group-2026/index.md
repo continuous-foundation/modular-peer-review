@@ -62,7 +62,13 @@ Summary, agenda, and outcomes from the January 22, 2026 kickoff. We met eachothe
 The group’s first hands-on task: 15 minutes generating an exhaustive list of research components that could be reviewed on their own terms. Read the brainstorm notes.
 :::
 
-**Our next meeting is February 17, 2026.**
+:::{card} 🗂️ Session 2: Categorize Review Purposes
+:link: session-2.md
+
+Participants were asked to explore potential components of modular review across several categories to begin giving form to different review purposes.
+:::
+
+**Our next meeting is March 17, 2026.**
 
 ## Acknowledgements
 

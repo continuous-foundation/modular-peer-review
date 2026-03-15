@@ -27,7 +27,9 @@ project:
   toc:
     - file: index.md
     - file: session-1.md
-    - file: session-1-brainstorm.md
+      children:
+        - file: session-1-brainstorm.md
+    - file: session-2.md
     - title: Notebooks
       children:
         - file: session-1-visualizations.ipynb
