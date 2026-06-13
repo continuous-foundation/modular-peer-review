@@ -74,7 +74,23 @@ Participants were asked to explore potential components of modular review across
 Participants were asked to place dots on research objects or processes where modular peer review could be most valuable. The goal was not to select a single winner but to identify areas of shared interest and momentum across groups.
 :::
 
-**Our next meeting is March 17, 2026.**
+:::{card} ❓ Session 3: Creating Review Questions and Structure
+:link: session-3.md
+
+Participants moved from exploring review purposes to designing the questions, conditions, and structures needed to review modular research objects, working in breakout groups on preregistrations, data, and figures.
+:::
+
+:::{card} 🗺️ Session 4: System Map Workshop
+:link: session-4.md
+
+The group tested a draft system map for modular peer review—probing the distinction between outcomes and signals, and where the framework breaks across different objects and review purposes.
+:::
+
+:::{card} 🔬 Session 5: Validating the Modular Review Arc
+:link: session-5.md
+
+A hands-on session running live reviews of real preregistrations, datasets, and visualizations through the simplified Object → Function → Criteria → Signal → Capture arc.
+:::
 
 ## Acknowledgements
 

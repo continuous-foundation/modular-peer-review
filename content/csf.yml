@@ -42,7 +42,7 @@ project:
     - id: csf
       name: Continuous Science Foundation
       ror: https://ror.org/00zwsrq61
-      github: https://github.com/continuous-foundation
+      github: continuous-foundation
       bluesky: continuous.foundation
     - id: curvenote
       name: Curvenote Inc.
@@ -52,7 +52,7 @@ project:
       url: https://curvenote.com
       linkedin: https://www.linkedin.com/company/curvenote/
       bluesky: curvenote.com
-      github: https://github.com/curvenote
+      github: curvenote
     - id: wildlyopen
       name: Wildly Open
       url: https://wildlyopen.com

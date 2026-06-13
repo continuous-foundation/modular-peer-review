@@ -32,6 +32,9 @@ project:
     - file: session-2.md
       children:
         - file: session-2-voting.md
+    - file: session-3.md
+    - file: session-4.md
+    - file: session-5.md
     - title: Notebooks
       children:
         - file: session-1-visualizations.ipynb
