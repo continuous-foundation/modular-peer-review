@@ -27,8 +27,7 @@ What follows is a session-by-session account of that process: what we did, what 
 
 # What we did, session by session
 
-## Session 1 — Naming the Objects
-
+:::{important .dropdown} Session 1 — Naming the Objects
 **Question:** _What could be reviewed?_
 
 The group's first task was to identify everything in the research process that could be reviewed, evaluated, or receive feedback as its own independent object.
@@ -37,16 +36,16 @@ Participants from publishing, libraries, research, infrastructure, and open scie
 
 Participants identified a rich landscape of reviewable objects, including research design, ethics, protocols, datasets, software, computational workflows, analyses, figures, metadata, attribution, communication materials, and even peer reviews themselves.
 
-### Key outputs
+**Key outputs**
 
 - A categorized inventory of reviewable research objects.
 - Early recognition that different objects require different kinds of expertise.
 - Agreement that before designing review workflows, the group first needed to answer a more fundamental question: **what is the purpose of reviewing each object?**
 
 That question became the focus of the second session.
+:::
 
-## Session 2 — Defining the Purpose
-
+:::{important .dropdown} Session 2 — Defining the Purpose
 **Question:** _Why review it?_
 
 With a broad landscape of reviewable objects established, the group shifted attention from _what_ could be reviewed to _why_ review happens in the first place.
@@ -65,7 +64,7 @@ Working in breakout groups, participants explored which kinds of trust signals d
 
 The session concluded with a dot-voting exercise to identify where participants believed modular review could have the greatest impact. Preregistrations ranked highest, followed by datasets, code and computational workflows, funding proposals, and figures and visualizations.
 
-### Key outputs
+**Key outputs**
 
 - A framework describing seven purposes of peer review.
 - Identification of five thematic working groups that would continue through the remainder of the project:
@@ -76,9 +75,9 @@ The session concluded with a dot-voting exercise to identify where participants 
   - Figures and visualizations
 
 Having established why review matters, the next challenge became much more practical: **what would reviewers actually ask?**
+:::
 
-## Session 3 — Designing the Questions
-
+:::{important .dropdown} Session 3 — Designing the Questions
 **Question:** _How would someone actually review these objects?_
 
 The third session translated abstract ideas into practical review criteria.
@@ -89,7 +88,7 @@ Three working groups—Preregistrations, Data, and Figures & Visualizations—th
 
 The Preregistration group distinguished preregistrations from registered reports and developed questions around research rationale, study design, statistical planning, and ethics. The Data group explored how review criteria change across raw, processed, and published datasets, emphasizing metadata, completeness, and reusability. The Figures group treated visualizations both as analytical products and communication tools, developing criteria spanning accuracy, accessibility, reproducibility, and clarity.
 
-### Key outputs
+**Key outputs**
 
 - Draft review questions for preregistrations, datasets, and figures.
 - Conditions needed for those reviews to succeed.
@@ -97,9 +96,9 @@ The Preregistration group distinguished preregistrations from registered reports
 Across all three groups, similar insights emerged. Effective review depends on clearly defining its purpose, providing sufficient context and metadata, and building on existing standards rather than creating entirely new ones.
 
 These observations laid the groundwork for designing a broader review framework.
+:::
 
-## Session 4 — Connecting the Pieces
-
+:::{important .dropdown} Session 4 — Connecting the Pieces
 **Question:** _How do the pieces fit together?_
 
 With review questions drafted, the working group turned to designing a conceptual framework describing how modular peer review might function.
@@ -114,7 +113,7 @@ Participants then stress-tested the framework to improve it.
 
 The Figures group observed that some trust signals—such as accessibility or licensing—could exist independently of an overall review outcome. The Data group argued that trust should be represented as a multidimensional profile rather than a single score. Meanwhile, the Preregistration group highlighted that many research objects are themselves composed of smaller reviewable objects, raising questions about nested review.
 
-### Key outputs
+**Key outputs**
 
 - A revised conceptual framework.
 - The first proposal for multidimensional trust profiles, possibly visualized as radar charts.
@@ -123,9 +122,9 @@ The Figures group observed that some trust signals—such as accessibility or li
 The session demonstrated the value of collaborative design, and actively reshaped the framework.
 
 The next step was to test whether those ideas actually worked in practice.
+:::
 
-## Session 5 — Testing the Framework
-
+:::{important .dropdown} Session 5 — Testing the Framework
 **Question:** _Does it work?_
 
 In response to feedback from Session 4, the working group simplified its framework to:
@@ -138,16 +137,16 @@ Participants then conducted the group's first mock reviews using real research o
 
 Working through structured review worksheets, each group identified the review's purpose, applied its draft criteria, evaluated resulting trust signals, and documented what information should be captured for future users.
 
-### Key outputs
+**Key outputs**
 
 - The first complete test of the modular review workflow.
 - Evidence that review functions, criteria, and trust signals need explicit guidance rather than requiring reviewers to design them from scratch.
 - New concepts emerging directly from practice, including reviewer confidence, feasibility, reuse, and clarity as distinct dimensions worth capturing.
 
 While the exercise surfaced important challenges, it also demonstrated that modular review could be carried out in a practical and structured way.
+:::
 
-## Session 6 — Reflection and Looking Forward
-
+:::{important .dropdown} Session 6 — Reflection and Looking Forward
 **Question:** _What changed because of this work?_
 
 The final session brought together six months of experimentation and reflection.
@@ -164,13 +163,14 @@ Participants then reflected individually and collectively on three questions:
 
 The resulting discussion moved beyond technical implementation toward broader questions about adoption, incentives, institutional support, reviewer recognition, interoperability, and communication.
 
-### Key outputs
+**Key outputs**
 
 - A community synthesis of six months of collaborative design.
 - Identification of the major questions requiring continued experimentation.
 - A shared commitment to continue developing and testing modular peer review beyond the lifetime of the working group.
 
 Rather than ending with a finished framework, the project concluded with something more valuable: a community of practice committed to continuing the work together.
+:::
 
 # What We Learned
 
