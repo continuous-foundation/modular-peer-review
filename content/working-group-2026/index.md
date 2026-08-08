@@ -1,11 +1,21 @@
 ---
 title: Modular Peer Review Working Group
-abstract: |
-  The **Modular Peer Review Working Group** is a collaboration between Continuous Science Foundation (CSF) and PREreview. The group exists because science is already shifting toward a future where the paper is no longer the nucleus of sharing research. Trust, evaluation, and feedback can no longer be confined to a single object or a single moment in time. Modular peer review explores how review, verification, and credit can attach to research components, data, methods, code, figures, models, and interpretations, as they are created, reused, and combined. Today the system obscures contributions, discourages reuse, and concentrates authority.
+abstract: >
+  The **Modular Peer Review Working Group** is a collaboration between
+  Continuous Science Foundation (CSF) and PREreview. The group exists because
+  science is already shifting toward a future where the paper is no longer the
+  nucleus of sharing research. Trust, evaluation, and feedback can no longer be
+  confined to a single object or a single moment in time. Modular peer review
+  explores how review, verification, and credit can attach to research
+  components, data, methods, code, figures, models, and interpretations, as they
+  are created, reused, and combined. Today the system obscures contributions,
+  discourages reuse, and concentrates authority.
 ---
 
-:::{important} Active Working Group
-We are continuously documenting the progress of this working group, which kicked off on January 22, 2026. There will be ongoing updates to this space, which can be edited or updated on GitHub, through participation in the working group sessions, or by subscribing to the [mailing list](https://groups.google.com/a/continuousfoundation.org/g/modular-peer-review).
+The Modular Peer Review Working Group is a collaboration between the [Continuous Science Foundation (CSF)](https://continuousfoundation.org) and [PREreview](https://prereview.org). The working group convened between January and July 2026 to explore how peer review can be made more modular, continuous, and how it can be made more useful for the research community. Read the [final report](report.md) for the working group.
+
+:::{card link="report.md"} 📝 Report: Modular Peer Review Working Group
+The final report from the Modular Peer Review Working Group.
 :::
 
 ## Participants
@@ -42,58 +52,42 @@ The working group kicked off in January 2026, and will continue with monthly wor
 
 ### Inspiration
 
-:::{card} 🏗️ Building Codes—From One Big Stamp to Modular Approval Pathways
-:link: https://articles.continuousfoundation.org/articles/building-code-review
-
+:::{card link="https://articles.continuousfoundation.org/articles/building-code-review"} 🏗️ Building Codes—From One Big Stamp to Modular Approval Pathways
 A case study from outside academia: building reviews and inspections conducted by specialists at different stages, rather than a single approval at the end. The case-study is designed to spark inspiration on how an industry changed it's practices from a single review at the end, to modular and composable reviews along the way — improving safety and rigour in construction
 :::
 
 ### Sessions
 
-:::{card} 👋 Session 1: Kickoff
-:link: session-1.md
-
+:::{card link="session-1.md"} 👋 Session 1: Kickoff
 Summary, agenda, and outcomes from the January 22, 2026 kickoff. We met eachother, set some guidelines for how we will work together. See the slides and notes here.
 :::
 
-:::{card} 🧠 Session 1 Brainstorm — A 15-Minute Experiment
-:link: session-1-brainstorm.md
-
-The group’s first hands-on task: 15 minutes generating an exhaustive list of research components that could be reviewed on their own terms. Read the brainstorm notes.
+:::{card link="session-1-brainstorm.md"} 🧠 Session 1 Brainstorm — A 15-Minute Experiment
+The group's first hands-on task: 15 minutes generating an exhaustive list of research components that could be reviewed on their own terms. Read the brainstorm notes.
 :::
 
-:::{card} 🗂️ Session 2: Categorize Review Purposes
-:link: session-2.md
-
+:::{card link="session-2.md"} 🗂️ Session 2: Categorize Review Purposes
 Participants were asked to explore potential components of modular review across several categories to begin giving form to different review purposes.
 :::
 
-:::{card} 🗳️ Session 2 — Dot Voting
-:link: session-2-voting.md
-
+:::{card link="session-2-voting.md"} 🗳️ Session 2 — Dot Voting
 Participants were asked to place dots on research objects or processes where modular peer review could be most valuable. The goal was not to select a single winner but to identify areas of shared interest and momentum across groups.
 :::
 
-:::{card} ❓ Session 3: Creating Review Questions and Structure
-:link: session-3.md
-
+:::{card link="session-3.md"} ❓ Session 3: Creating Review Questions and Structure
 Participants moved from exploring review purposes to designing the questions, conditions, and structures needed to review modular research objects, working in breakout groups on preregistrations, data, and figures.
 :::
 
-:::{card} 🗺️ Session 4: System Map Workshop
-:link: session-4.md
-
+:::{card link="session-4.md"} 🗺️ Session 4: System Map Workshop
 The group tested a draft system map for modular peer review—probing the distinction between outcomes and signals, and where the framework breaks across different objects and review purposes.
 :::
 
-:::{card} 🔬 Session 5: Validating the Modular Review Arc
-:link: session-5.md
-
+:::{card link="session-5.md"} 🔬 Session 5: Validating the Modular Review Arc
 A hands-on session running live reviews of real preregistrations, datasets, and visualizations through the simplified Object → Function → Criteria → Signal → Capture arc.
 :::
 
 ## Acknowledgements
 
-This space is an evolving document. We will continue to update it as the working group progresses, and we invite others to contribute—whether by joining sessions, suggesting [edits on GitHub](https://github.com/continuous-foundation/modular-peer-review), or sharing feedback via the [mailing list](https://groups.google.com/a/continuousfoundation.org/g/modular-peer-review).
+We invite edits or updates through suggestions [on GitHub](https://github.com/continuous-foundation/modular-peer-review), or sharing feedback via the [mailing list](https://groups.google.com/a/continuousfoundation.org/g/modular-peer-review).
 
 All working group participants are part of this effort and its outputs. Some participants have chosen to remain or be listed anonymously; we thank everyone who has shown up, experimented, and helped shape this work.

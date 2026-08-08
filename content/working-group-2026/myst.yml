@@ -26,6 +26,7 @@ project:
     FAIR: Findable, Accessible, Interoperable, Reusable
   toc:
     - file: index.md
+    - file: report.md
     - file: session-1.md
       children:
         - file: session-1-brainstorm.md
