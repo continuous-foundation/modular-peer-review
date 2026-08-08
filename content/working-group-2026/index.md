@@ -22,14 +22,14 @@ The final report from the Modular Peer Review Working Group.
 
 ## Participants
 
-Over sixty participants have joined the working group across continents and time zones, publishers, librarians, researchers, early-career scholars, infrastructure builders, funders, and open science community organizers. They come from different disciplines, different institutional incentives, and very different lived experiences.
+Over sixty participants joined the working group from across continents and time zones, publishers, librarians, researchers, early-career scholars, infrastructure builders, funders, and open science community organizers. They came from different disciplines, different institutional incentives, and very different lived experiences.
 
-- Participants are joining from 🇨🇦 🇺🇸 🇬🇧 🇪🇺 🇲🇽 🇨🇱 🇳🇬 🇮🇳 🥐 and beyond
+- Participants joined from 🇨🇦 🇺🇸 🇬🇧 🇪🇺 🇲🇽 🇨🇱 🇳🇬 🇮🇳 🥐 and beyond
 - Relationship to modular research & publishing ranged from formal and informal ways like reuse, connection to the paper, links between parts 📄 ➝ 🧱 📊 📦 💻 🧪 🔍 🧠 ♻️ 🔗
 - People want to refine, improve or rethink in peer review was grounded in purpose, trust/fairness and cycles/time 🎯 🧩 ➝ 🧠 ⚖️ 🔎 🔄 ⏳
 - Types of work that were represented ranged from publishing, research, infrastructure, funding, and community building 📚 🧑‍🏫 🧪 👩‍🔬 👨‍🔬 🛠️ 🧑‍💻 🏛️ 💡 🌱 🤝
 
-What this group shares is not a single solution, or even agreement on the problem. What they shared was a **willingness to move**. Instead of waiting for permission, they are showing up ready to experiment, explore, and ideate.
+What this group shared was not a single solution, or even agreement on the problem. What they shared was a **willingness to move**. Instead of waiting for permission, they showed up ready to experiment, explore, and ideate.
 
 ## How We Worked
 
