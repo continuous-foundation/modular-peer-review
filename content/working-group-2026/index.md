@@ -1,18 +1,20 @@
 ---
 title: Modular Peer Review Working Group
 abstract: >
-  The **Modular Peer Review Working Group** is a collaboration between
-  Continuous Science Foundation (CSF) and PREreview. The group exists because
-  science is already shifting toward a future where the paper is no longer the
-  nucleus of sharing research. Trust, evaluation, and feedback can no longer be
-  confined to a single object or a single moment in time. Modular peer review
+  The **Modular Peer Review Working Group** was a collaboration between
+  Continuous Science Foundation (CSF) and PREreview. The group convened between
+  January 2026 and July 2026 to explore how peer review can be made more
+  modular, continuous, and how it can be made more useful for the research
+  community. Science is shifting toward a future where the paper is no longer
+  the nucleus of sharing research. Trust, evaluation, and feedback can no longer
+  be confined to a single object or a single moment in time. Modular peer review
   explores how review, verification, and credit can attach to research
   components, data, methods, code, figures, models, and interpretations, as they
   are created, reused, and combined. Today the system obscures contributions,
   discourages reuse, and concentrates authority.
 ---
 
-The Modular Peer Review Working Group is a collaboration between the [Continuous Science Foundation (CSF)](https://continuousfoundation.org) and [PREreview](https://prereview.org). The working group convened between January and July 2026 to explore how peer review can be made more modular, continuous, and how it can be made more useful for the research community. Read the [final report](report.md) for the working group.
+The Modular Peer Review Working Group is a collaboration between the [Continuous Science Foundation (CSF)](https://continuousfoundation.org) and [PREreview](https://prereview.org). The working group convened between January 2026 and July 2026 to explore how peer review can be made more modular, continuous, and how it can be made more useful for the research community. Read the [final report](report.md) for the working group.
 
 :::{card link="report.md"} 📝 Report: Modular Peer Review Working Group
 The final report from the Modular Peer Review Working Group.
@@ -29,26 +31,22 @@ Over sixty participants have joined the working group across continents and time
 
 What this group shares is not a single solution, or even agreement on the problem. What they shared was a **willingness to move**. Instead of waiting for permission, they are showing up ready to experiment, explore, and ideate.
 
-## How We Are Working
+## How We Worked
 
-The working group is a space for co-creation. Together, we are exploring how peer review can evolve in a modular publishing ecosystem—where datasets, code, methods, figures, and other components are shared independently and iteratively. All outcomes from the working group will documented and licensed CC-BY-4.0. We are following PREreview's [code of conduct](https://prereview.org/code-of-conduct) following four grounding principles for how we work:
+The working group was a space for co-creation. Together, we explored how peer review can evolve in a modular publishing ecosystem—where datasets, code, methods, figures, and other components are shared independently and iteratively. All outcomes from the working group are documented and licensed CC-BY-4.0. We followed PREreview's [code of conduct](https://prereview.org/code-of-conduct) and followed four grounding principles for how we worked:
 
 - **Messy by design:** Early ideas and unfinished thinking are welcome.
 - **Human-first:** Care, curiosity, and lived experience come before polish or performance.
   **Not a race to first place:** Collective progress matters more than individual authority.
 - **Many ways to contribute:** Participation can flex over time and capacity.
 
-To help the group move without requiring unanimity, sessions operate using **lazy consensus**, moving forward unless there is a clear reason not to, and a [**zone of tolerance**](https://circleforward.us/consent-arises-within-a-range-of-tolerance), where full agreement is not required for progress. Consent is understood as something that arises within a range, rather than at a single point of perfect alignment.
+To help the group move without requiring unanimity, sessions operated using **lazy consensus**, moving forward unless there was a clear reason not to, and a [**zone of tolerance**](https://circleforward.us/consent-arises-within-a-range-of-tolerance), where full agreement was not required for progress. Consent was understood as something that arose within a range, rather than at a single point of perfect alignment.
 
 ## Working Group Goals
 
 - Pinpoint key challenges in providing constructive, modular feedback to research objects including but not limited to research proposals, research posters, preprints, datasets, reproducible notebooks, code, methods, and figures
 - Map existing approaches and examples that this group can surface, build from and adapt.
 - Explore opportunities that reflect the realities of modular science.
-
-## Progress
-
-The working group kicked off in January 2026, and will continue with monthly working sessions to wrap up in Spring 2026. You can follow along with our progress here.
 
 ### Inspiration
 

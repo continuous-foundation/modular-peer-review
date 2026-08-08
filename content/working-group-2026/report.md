@@ -1,11 +1,19 @@
 ---
 title: 'Signals, Timing, Trust: Reflections from the Modular Peer Review Working Group'
 subtitle: Final report from the Modular Peer Review Working Group
+short_title: Final Report
+abstract: >
+  Between January and July 2026, the [Continuous Science Foundation
+  (CSF)](https://continuousfoundation.org), [PREreview](https://prereview.org),
+  and more than 60 researchers, infrastructure builders, publishers, and
+  community members came together as the [Modular Peer Review Working
+  Group](https://articles.continuousfoundation.org/articles/modular-peer-review).
+  Together, we explored a simple but important question: _What might peer review
+  look like if it evolved alongside the research process, rather than centering
+  only on the final paper?_
 ---
 
 # How we begun
-
-Between January and July 2026, the [Continuous Science Foundation (CSF)](https://continuousfoundation.org), [PREreview](https://prereview.org), and more than 60 researchers, infrastructure builders, publishers, and community members came together as the [Modular Peer Review Working Group](https://articles.continuousfoundation.org/articles/modular-peer-review). Together, we explored a simple but important question: _What might peer review look like if it evolved alongside the research process, rather than centering only on the final paper?_
 
 As research becomes more open, many valuable research outputs—including study designs, datasets, code, figures, protocols, and models—are shared well before a manuscript is submitted for publication. Yet the way we evaluate research has remained largely organized around a single, static object: the paper. This disconnect raises important questions about how feedback could be provided earlier, how different research outputs might be evaluated on their own terms, and how trust in research could be built incrementally throughout the research lifecycle.
 
