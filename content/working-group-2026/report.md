@@ -11,6 +11,7 @@ abstract: >
   Together, we explored a simple but important question: _What might peer review
   look like if it evolved alongside the research process, rather than centering
   only on the final paper?_
+date: 2026-08-12
 ---
 
 # How we begun

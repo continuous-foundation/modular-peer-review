@@ -2,6 +2,7 @@ version: 1
 extends:
   - ../csf.yml
 project:
+  doi: 10.62329/guja8735
   id: e73009b8-7905-4934-9a38-dfa7599ba20c
   title: Modular Peer Review Working Group
   description: A working group hosted by Continuous Science Foundation (CSF) and PREreview exploring how peer review can evolve in a modular publishing ecosystem.
@@ -142,3 +143,9 @@ project:
     - title: Notebooks
       children:
         - file: session-1-visualizations.ipynb
+  exports:
+    - id: pdf
+      format: typst
+      template: https://github.com/curvenote-templates/csf.git
+      article: report.md
+      output: full_text.pdf

@@ -14,14 +14,13 @@ project:
       email: rowan@continuousfoundation.org
       orcid: 0000-0002-7859-8394
       github: rowanc1
+      corresponding: true
       affiliations:
         - id: csf
         - id: curvenote
     - id: courtney
       name: Courtney Babott
       orcid: 0009-0009-4167-2325
-      corresponding: true
-      email: courtney@continuousfoundation.org
       affiliations:
         - id: csf
         - id: wildlyopen
@@ -29,13 +28,13 @@ project:
       name: Chad Sansing
       orcid: 0000-0002-1472-1824
       email: chad@prereview.org
-      corresponding: true
       affiliations:
         - id: prereview
     - id: daniela
       name: Daniela Saderi
       orcid: 0000-0002-6109-0367
       email: daniela@prereview.org
+      corresponding: true
       affiliations:
         - id: prereview
   affiliations:
