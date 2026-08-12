@@ -67,21 +67,12 @@ project:
     - name: Pavithran Narayanan
       orcid: 0000-0002-9376-168X
       affiliation: Wiley
-    - name: Dr. Mwafaq Ramzi Haji
-      orcid: 0009-0005-2704-4470
-      affiliation: GOALPS (NGO)
     - name: Manisha Sinha
       orcid: 0000-0003-0539-4152
       affiliation: the echo network
-    - name: Mathïs Fédérico
-      orcid: 0009-0002-2624-3417
-      affiliation: Bycelium
     - name: Alexandra Freeman
       orcid: 0000-0002-4115-161X
       affiliation: Octopus.ac
-    - name: Jay Patel
-      orcid: 0000-0003-1040-3607
-      affiliation: University of Maryland - College Park
     - name: Lessa Tchohou Fabrice
       orcid: 0000-0002-5644-7632
       affiliation: University of Yaounde 1
@@ -96,9 +87,6 @@ project:
     - name: Myron Pulier, MD
       orcid: 0000-0001-9197-0309
       affiliation: Rutgers New Jersey Medical School
-    - name: Leyla Cabugos
-      orcid: 0000-0003-4031-3987
-      affiliation: California Polytechnic State University, San Luis Obispo
     - name: Xiuqi Li
       orcid: 0000-0003-1796-8555
       affiliation: UC Santa Barbara
@@ -108,12 +96,6 @@ project:
     - name: Tony Alves
       orcid: 0000-0001-7054-1732
       affiliation: Scholarly Publishing Solutions
-    - name: Dr. Mwafaq Ramzi Haji
-      orcid: 0009-0005-2704-4470
-      affiliation: GOALPS (NGO)
-    - name: Myron Pulier
-      orcid: 0000-0001-9197-0309
-      affiliation: Rutgers New Jersey Medical School
     - courtney
     - chad
     - daniela
@@ -149,3 +131,6 @@ project:
       template: https://github.com/curvenote-templates/csf.git
       article: report.md
       output: full_text.pdf
+  downloads:
+    - id: pdf
+      title: Download PDF
