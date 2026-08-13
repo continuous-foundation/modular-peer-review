@@ -106,7 +106,7 @@ With review questions drafted, the working group turned to designing a conceptua
 
 The initial model followed a simple progression:
 
-**Object → Function → Criteria → Outcome → Signal → Capture**
+**Object -> Function -> Criteria -> Outcome -> Signal -> Capture**
 
 This framework proposed that reviews begin with a specific research object, apply criteria appropriate to a defined purpose, generate trust signals, and ultimately capture those signals in ways that can travel with the object over time.
 
@@ -130,7 +130,7 @@ The next step was to test whether those ideas actually worked in practice.
 
 In response to feedback from Session 4, the working group simplified its framework to:
 
-**Object → Function → Criteria → Signal → Capture**
+**Object -> Function -> Criteria -> Signal -> Capture**
 
 Trust would no longer be represented as a single outcome, but as a multidimensional profile reflecting qualities such as robustness, reproducibility, clarity, usefulness, risk, care, compliance, and maturity.
 
