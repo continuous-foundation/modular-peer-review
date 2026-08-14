@@ -27,7 +27,6 @@ project:
     - id: chad
       name: Chad Sansing
       orcid: 0000-0002-1472-1824
-      email: chad@prereview.org
       affiliations:
         - id: prereview
     - id: daniela

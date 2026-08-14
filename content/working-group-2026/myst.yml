@@ -10,92 +10,96 @@ project:
   date: 2026-01-22
   authors:
     - name: Working Group Participants
-    - name: Darian Carroll
-      orcid: 0000-0002-7815-8698
-      affiliation: Howard Hughes Medical Institute
-    - name: Tim Fellows
-      orcid: 0000-0002-4016-3387
-      affiliation: Jisc
-    - name: Rosario Rogel-Salazar
-      orcid: 0000-0002-6018-0635
-      affiliation: Universidad Autónoma del Estado de México
-    - name: Sreyoshi Sur
-      orcid: 0000-0001-7780-2640
-    - name: Mathïs Fédérico
-      orcid: 0009-0002-2624-3417
-      affiliation: Bycelium
-    - name: Dmitry Kochetkov
-      orcid: 0000-0001-7890-7532
-      affiliation: RUDN University
-    - name: Mohammad Saeed Tajdary
-      orcid: 0009-0005-1720-5920
-    - name: Rodrigo Migueles Ramirez
-      orcid: 0000-0002-6087-1348
-      affiliation: UdeM - UNESCO Open Science Chair
-    - name: Anton Molina
-      orcid: 0000-0002-7253-2714
-      affiliation: b.next
-    - name: Jonathon Alexis Coates
-      orcid: 0000-0001-9039-9219
-      affiliation: Ripplng Ideas
-    - name: Riva Quiroga
-      orcid: 0000-0002-1147-4135
-      affiliation: OLS
-    - name: Toba Isaac Olatoye
-      orcid: 0009-0005-9199-2037
-      affiliation: Kwara State Teaching Service Commission
-    - name: Shailee Rasania
-      orcid: 0000-0002-7109-840X
-      affiliation: Lumanity, Inc.
-    - name: Dr. Mwafaq Ramzi Haji
-      orcid: 0009-0005-2704-4470
-      affiliation: GOALPS (Startup Local Kurdish NGO)
-    - name: Ava Chan
-      orcid: 0000-0001-9801-4563
-      affiliation: University of Oxford
-    - name: Michael Markie
-      orcid: 0000-0001-7021-3018
-      affiliation: eLife
-    - name: Jay Patel
-      orcid: 0000-0003-1040-3607
-      affiliation: University of Maryland - College Park
+    - name: Tony Alves
+      orcid: 0000-0001-7054-1732
+      affiliation: Scholarly Publishing Solutions
+    - name: Femi Qudus Arogundade
+      orcid: 0000-0002-9222-1817
+      affiliation: West and Central African Research and Education Network (WACREN)
     - name: Leyla Cabugos
       orcid: 0000-0003-4031-3987
       affiliations:
         - California Polytechnic State University, San Luis Obispo
         - Robert E. Kennedy Library, California Polytechnic State University, San Luis Obispo
-    - name: Pavithran Narayanan
-      orcid: 0000-0002-9376-168X
-      affiliation: Wiley
-    - name: Manisha Sinha
-      orcid: 0000-0003-0539-4152
-      affiliation: the echo network
+    - name: Darian Carroll
+      orcid: 0000-0002-7815-8698
+      affiliation: Howard Hughes Medical Institute
+    - name: Ava Chan
+      orcid: 0000-0001-9801-4563
+      affiliation: University of Oxford
+    - name: Jonathon Alexis Coates
+      orcid: 0000-0001-9039-9219
+      affiliation: Ripplng Ideas
+    - name: Hala Taha Elbashir
+      affiliation: Blue Nile National Institute for Communicable Diseases, Sudan
+      orcid: 0009-0003-4117-1631
+    - name: Lessa Tchohou Fabrice
+      orcid: 0000-0002-5644-7632
+      affiliation: University of Yaounde
+    - name: Mathïs Fédérico
+      orcid: 0009-0002-2624-3417
+      affiliation: Bycelium
+    - name: Tim Fellows
+      orcid: 0000-0002-4016-3387
+      affiliation: Jisc
     - name: Alexandra Freeman
       orcid: 0000-0002-4115-161X
       affiliation: Octopus.ac
-    - name: Lessa Tchohou Fabrice
-      orcid: 0000-0002-5644-7632
-      affiliation: University of Yaounde 1
-    - name: Anna Hatch
-      orcid: 0000-0002-2111-3237
     - name: Torsten Goerke
       orcid: 0000-0002-5041-5509
       affiliation: TUD Dresden University of Technology
     - name: Nathaniel Gore
       orcid: 0009-0000-4258-7522
       affiliation: JMIR Publications
-    - name: Myron Pulier, MD
-      orcid: 0000-0001-9197-0309
-      affiliation: Rutgers New Jersey Medical School
+    - name: Dr. Mwafaq Ramzi Haji
+      orcid: 0009-0005-2704-4470
+      affiliation: GOALPS (Startup Local Kurdish NGO)
+    - name: Anna Hatch
+      orcid: 0000-0002-2111-3237
+      affiliation: HHMI
+    - name: Dmitry Kochetkov
+      orcid: 0000-0001-7890-7532
+      affiliation: RUDN University
     - name: Xiuqi Li
       orcid: 0000-0003-1796-8555
       affiliation: UC Santa Barbara
-    - name: Femi Qudus Arogundade
-      orcid: 0000-0002-9222-1817
-      affiliation: West and Central African Research and Education Network (WACREN)
-    - name: Tony Alves
-      orcid: 0000-0001-7054-1732
-      affiliation: Scholarly Publishing Solutions
+    - name: Michael Markie
+      orcid: 0000-0001-7021-3018
+      affiliation: eLife
+    - name: Anton Molina
+      orcid: 0000-0002-7253-2714
+      affiliation: b.next
+    - name: Pavithran Narayanan
+      orcid: 0000-0002-9376-168X
+      affiliation: Wiley
+    - name: Toba Isaac Olatoye
+      orcid: 0009-0005-9199-2037
+      affiliation: Kwara State Teaching Service Commission
+    - name: Jay Patel
+      orcid: 0000-0003-1040-3607
+      affiliation: University of Maryland - College Park
+    - name: Myron Pulier, MD
+      orcid: 0000-0001-9197-0309
+      affiliation: Rutgers New Jersey Medical School
+    - name: Riva Quiroga
+      orcid: 0000-0002-1147-4135
+      affiliation: OLS
+    - name: Rodrigo Migueles Ramirez
+      orcid: 0000-0002-6087-1348
+      affiliation: UdeM - UNESCO Open Science Chair
+    - name: Shailee Rasania
+      orcid: 0000-0002-7109-840X
+      affiliation: Lumanity, Inc.
+    - name: Rosario Rogel-Salazar
+      orcid: 0000-0002-6018-0635
+      affiliation: Universidad Autónoma del Estado de México
+    - name: Manisha Sinha
+      orcid: 0000-0003-0539-4152
+      affiliation: the echo network
+    - name: Sreyoshi Sur
+      orcid: 0000-0001-7780-2640
+    - name: Mohammad Saeed Tajdary
+      orcid: 0009-0005-1720-5920
     - courtney
     - chad
     - daniela
